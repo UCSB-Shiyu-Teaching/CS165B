@@ -58,6 +58,47 @@ The university, the department, and this instructor all take the issue of academ
 ## Acknowledgement
 The preparation of this course has benefited from the previous instructors (Dr. Xifeng Yang and Dr. William Wang), and the CSE404 (taught by Dr. Jiayu Zhou) at Michigan State University.
 
+## Schedule
+Week 1: 09/27 - 10/01 
+Topic: Introduction, Linear Algebra, Python, Probability Recap
+(Assignment 0 Due)
+
+Week 2: 10/04 - 10/08
+Topic: Perceptron, Linear regression
+(Assignment 1 Due, covering: Linear Algebra, Perceptron, Probability)
+
+Week 3: 10/11 - 10/15
+Topic: Optimization, Logistic Regression
+
+Week 4: 10/18 - 10/22
+Topic: Logistic Regression (Cont.), Naive Bayesian
+(Assignment 2 Due, covering: Linear Regression, Optimization)
+
+Week 5: 10/25 - 10/29
+Topic: Midterm review
+Midterm on 10/27, night (need 90 minutes?) (covering: Linear algebra, perceptron, probability, optimization, logistic regression)
+
+Week 6: 11/1 - 11/5
+Topic: Naive Bayesian Continue, Decision Tree 
+(Assignment 3 Due, covering: Logistic Regression, Naive Bayesian)
+
+Week 7: 11/8-11/12
+Topic: SVM
+
+Week 8: 11/15-11/19
+Topic: Clustering & PCA
+(Assignment 4 Due, covering: SVM, Decision Tree)
+
+Week 9: 11/22-11/26
+Topic: PCA continue, Reinforcement Learning
+
+Week 10: 11/29-12/1
+Topic: RL continue, Final review
+(Assignment 5 Due, covering: SVM + clustering & PCA - missing?)
+
+Last day of instruction: 12/01
+Finals: 12/4-12/10
+
 
 
 
