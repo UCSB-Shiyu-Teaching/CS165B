@@ -6,7 +6,7 @@ Instructor: [Dr. Shiyu Chang](https://code-terminator.github.io)
 
 * Office hours: Thursday after lecture
 
-Teaching Assistant: [Yujian Liu](https://wuqiuche.github.io)
+Teaching Assistant: [Yujian Liu](https://yujianll.github.io)
 
 * Office hours: Monday 6 - 7pm
 
