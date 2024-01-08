@@ -6,12 +6,10 @@ This is an introductory class in the field of machine learning. Throughout the c
 - **Instructor**: 
 	- [Prof. Shiyu Chang](https://code-terminator.github.io/), Monday after the lecture
 - **TAs**:
-	- [Qiucheng Wu](https://wuqiuche.github.io): TBD
-	- [Gyuwan Kim](https://gyuwankim.github.io/): TBD
-	- [Alvin Liu](xxx): TBD
+	- [Qiucheng Wu](https://wuqiuche.github.io): Thursday 6-7pm @ Phelps 3530
+	- [Gyuwan Kim](https://gyuwankim.github.io/): Tuesday 6:30-7:30pm @ Trailer 936
+	- [Alvin Liu](): Tuesday 7:30-8:30pm @ Trailer 936
 
-- **Contact Info**:
-  - Please send emails to: xxx 
 
 ## Course Discussions
 
