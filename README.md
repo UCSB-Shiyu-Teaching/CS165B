@@ -1,18 +1,50 @@
 # CS165B: Introduction to Machine Learning
 
-Instructor: [Dr. Shiyu Chang](https://code-terminator.github.io)
+This is an introductory class in the field of machine learning. Throughout the course, students will delve into the basic principles of machine learning. By the end of the course, students will 1) understand the foundation, classic techniques, applications, and challenges of machine learning; 2) be able to apply basic machine learning algorithms to solve real-world problems.
 
-* Lecture time: Tuesday and Thursday 5pm - 6:15pm
+## Team Hours
+- **Instructor**: 
+	- [Prof. Shiyu Chang](https://code-terminator.github.io/), Monday after the lecture
+- **TAs**:
+	- [Qiucheng Wu](https://wuqiuche.github.io): TBD
+	- [Gyuwan Kim](https://gyuwankim.github.io/): TBD
+	- [Alvin Liu](xxx): TBD
 
-* Office hours: Thursday after lecture
+- **Contact Info**:
+  - Please send emails to: xxx 
 
-Teaching Assistant: [Yujian Liu](https://yujianll.github.io)
+## Course Discussions
 
-* Office hours: Monday 6 - 7pm
+The course piazza can be accessed [here](https://piazza.com/ucsb/winter2024/cs165b). Please note that the main purpose of this discussion forum is for students to exchange ideas and discuss any unclear concepts.  TAs are not responsible for answering student questions 24/7.
 
-* Location: Henley Hall - first floor 
+## Schedule (Tentative)
+- **Lectures** will occur Monday/Wednesday from 5:00-6:15 pm Pacific Time at Chemistry Building 1171.
+- **Discussion** sections will occur on Friday.  There are three sections, 4-5 pm, 5-6 pm, and 6-7 pm. 
 
-Basic course information can be found from the [syllabus](https://github.com/UCSB-Shiyu-Teaching/CS165B/blob/main/Syllabus.pdf).  Lecture slides and homework will be posted on GauchoSpace.  
+Updated lecture slides will be posted here shortly before each lecture. 
+
+| Date         | Description               |Course Materials | Assignments & Events       |
+|--------------|---------------------------|-|--------------------------------------------|
+| Mon, 01/08   | Introduction              | |Assignment 0 out, due on Mon, 01/15                            |
+| Wed, 01/10   | Review: Linear Algebra    | |                           |
+| Mon, 01/15   | No class (MLK Jr. Day)    | |                   |
+| Wed, 01/17   | Linear Algebra Cont.      | |                                            |
+| Mon, 01/22   | Perceptron                | |                           |
+| Wed, 01/24   | Perceptron Cont.          | |                  |
+| Mon, 01/29   | Review: Probability       | |                                            |
+| Wed, 01/31   | Linear Regression         | |                          |
+| Mon, 02/05   | Collinearity, weighted least square | |           |
+| Wed, 02/07   | Optimization              | |                                            |
+| Mon, 02/12   | Logistic Regression                   | |                                            |
+| Wed, 02/14   | Midterm (in class)        | |    |
+| Mon, 02/19   | No class (Presidents' Day)| |                                            |
+| Wed, 02/21   | Naive Bayesian            | |                                            |
+| Mon, 02/26   | Decision Tree             | |                                            |
+| Wed, 02/28   | SVM                       | | |
+| Mon, 03/04   | SVM Cont.                 | |                                            |
+| Wed, 03/06   | SVM Cont.                 | |                                            |
+| Mon, 03/11   | Clustering                | |                                            |
+| Wed, 03/13   | PCA                       | |                  |
 
 ## Acknowledgement
-The preparation of this course has benefited from the previous instructors (Dr. Xifeng Yang and Dr. William Wang), the CSE404 (taught by Dr. Jiayu Zhou) at Michigan State University, and other online materials. 
+The preparation of this course has benefited from the CSE404 (taught by Dr. Jiayu Zhou) at Michigan State University, and other online materials. 
