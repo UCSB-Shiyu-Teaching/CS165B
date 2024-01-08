@@ -23,7 +23,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 
 | Date         | Description               |Course Materials | Assignments & Events       |
 |--------------|---------------------------|-|--------------------------------------------|
-| Mon, 01/08   | Introduction              | |Assignment 0 out, due on Mon, 01/15                            |
+| Mon, 01/08   | Introduction              | |[Assignment 0](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2078792) out, due on Mon, 01/15                            |
 | Wed, 01/10   | Review: Linear Algebra    | |                           |
 | Mon, 01/15   | No class (MLK Jr. Day)    | |                   |
 | Wed, 01/17   | Linear Algebra Cont.      | |                                            |
