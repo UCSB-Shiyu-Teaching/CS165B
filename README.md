@@ -9,6 +9,8 @@ This is an introductory class in the field of machine learning. Throughout the c
 	- [Qiucheng Wu](https://wuqiuche.github.io): Thursday 6-7pm @ Phelps 3530
 	- [Gyuwan Kim](https://gyuwankim.github.io/): Tuesday 6:30-7:30pm @ Trailer 936
 	- [Alvin Liu](): Tuesday 7:30-8:30pm @ Trailer 936
+- **ULAs**:
+	- [Tanay Biradar](https://tanaybiradar.com): Thursday 12-1pm @ Trailer 936
 
 
 ## Course Discussions
