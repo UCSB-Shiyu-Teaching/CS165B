@@ -11,6 +11,8 @@ This is an introductory class in the field of machine learning. Throughout the c
 	- [Alvin Liu](): Tuesday 7:30-8:30pm @ Trailer 936
 - **ULAs**:
 	- [Tanay Biradar](https://tanaybiradar.com): Thursday 12-1pm @ Trailer 936
+- **READER**:
+	- [Wanjing Huang](): Thursday 6-7pm @ Phelps 3530 
 
 
 ## Course Discussions
