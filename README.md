@@ -30,7 +30,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Mon, 01/08   | Introduction              | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2080493)]   |[[Assignment 0](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2078792)] is out, due on Mon, 01/15                            |
 | Wed, 01/10   | Review: Linear Algebra    | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2093217)] |                           |
 | Mon, 01/15   | No class (MLK Jr. Day)    | |                   |
-| Wed, 01/17   | Linear Algebra Cont.      | |[Assignment 1](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2126629) is out, due on Fri, 02/02                                            |
+| Wed, 01/17   | Linear Algebra Cont.      | |[[Assignment 1](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2126629)] is out, due on Fri, 02/02                                            |
 | Mon, 01/22   | Perceptron                | |                           |
 | Wed, 01/24   | Perceptron Cont.          | |                  |
 | Mon, 01/29   | Review: Probability       | |                                            |
