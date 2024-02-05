@@ -34,7 +34,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Mon, 01/22   | Perceptron                | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2156062)]  |                           |
 | Wed, 01/24   | No class          | |                  |
 | Mon, 01/29   | Perceptron Cont.       | [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2215352)] |                                            |
-| Wed, 01/31   | Review: Probability          | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2215355)]  |[[Assignment 2](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2217726)] is out, due on Wed, 02/14                         |
+| Wed, 01/31   | Review: Probability          | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2215355)]  |[[Assignment 2](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2217726)] is out, due on Fri, 02/16                         |
 | Mon, 02/05   | Linear Regression | |           |
 | Wed, 02/07   | Optimization              | |                                            |
 | Mon, 02/12   | Logistic Regression                   | |                                            |
