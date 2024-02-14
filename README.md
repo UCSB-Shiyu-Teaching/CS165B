@@ -38,7 +38,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Mon, 02/05   | Linear Regression | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2248886)]  |           |
 | Wed, 02/07   | Linear Regression Cont.              | [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2268344)] |                                            |
 | Mon, 02/12   | Optimization                   | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2289724)]  |                                            |
-| Wed, 02/14   | Logistic Regression       |  [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2305013)]  |    | [[Assignment 3](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2305369)] is out, due on Fri, 03/01
+| Wed, 02/14   | Logistic Regression       |  [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2305013)]  | [[Assignment 3](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2305369)] is out, due on Fri, 03/01   | 
 | Mon, 02/19   | No class (Presidents' Day)| |                                            |
 | Wed, 02/21   | Logistic Regression and Midterm Review            | |                                            |
 | Mon, 02/26   | Midterm (in class)             | |                                            |
