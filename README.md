@@ -34,11 +34,11 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Mon, 01/22   | Perceptron                | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2156062)]  |                           |
 | Wed, 01/24   | No class          | |                  |
 | Mon, 01/29   | Perceptron Cont.       | [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2215352)] |                                            |
-| Wed, 01/31   | Review: Probability          | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2215355)] [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2268339)]   |[[Assignment 2](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2217726)] is out, due on Mon, 02/19                         |
+| Wed, 01/31   | Review: Probability          | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2215355)] [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2268339)]   |[[Assignment 2](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2291946)] is out, due on Mon, 02/19                         |
 | Mon, 02/05   | Linear Regression | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2248886)]  |           |
 | Wed, 02/07   | Linear Regression Cont.              | [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2268344)] |                                            |
 | Mon, 02/12   | Optimization                   | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2289724)]  |                                            |
-| Wed, 02/14   | Logistic Regression       |  [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2305013)]  |    |
+| Wed, 02/14   | Logistic Regression       |  [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2305013)]  |    | [[Assignment 3](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2305369)] is out, due on Fri, 03/01
 | Mon, 02/19   | No class (Presidents' Day)| |                                            |
 | Wed, 02/21   | Logistic Regression and Midterm Review            | |                                            |
 | Mon, 02/26   | Midterm (in class)             | |                                            |
