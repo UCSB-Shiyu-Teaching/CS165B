@@ -40,7 +40,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Mon, 02/12   | Optimization                   | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2289724)] [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2328618)] |                                            |
 | Wed, 02/14   | Logistic Regression       |  [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2305013)]  | [[Assignment 3](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2305369)] is out, due on Fri, 03/01   | 
 | Mon, 02/19   | No class (Presidents' Day)| |                                            |
-| Wed, 02/21   | Logistic Regression and Midterm Review            | |                                            |
+| Wed, 02/21   | Logistic Regression and Midterm Review            | [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2360702)]  [[Review](https://ucsb.instructure.com/courses/18193/files?preview=2360705)] |                                            |
 | Mon, 02/26   | Midterm (in class)             | |                                            |
 | Wed, 02/28   | Naive Bayesian                       | | |
 | Mon, 03/04   | Decision Tree                | |                                            |
