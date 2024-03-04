@@ -44,7 +44,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Mon, 02/26   | Midterm (in class)             | |                                            |
 | Wed, 02/28   | Naive Bayesian                       | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2401608)] | |
 | Fri, 03/01   | Discussion: Non-lienar Transformation                        | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2399004)] | |
-| Mon, 03/04   | Decision Tree                | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2433480)]  |                                            |
+| Mon, 03/04   | Decision Tree                | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2433480)]  | [[Assignment 4](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2433476)] is out, due on Sun, 03/17                                           |
 | Wed, 03/06   | SVM                 | |                                            |
 | Mon, 03/11   | SVM Cont.                | |                                            |
 | Wed, 03/13   | PCA                       | |                  |
