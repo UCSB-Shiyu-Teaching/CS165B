@@ -46,8 +46,8 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 03/01   | Discussion: Non-lienar Transformation                        | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2399004)] | |
 | Mon, 03/04   | Decision Tree                | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2433480)] [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2450841)]  | [[Assignment 4](https://ucsb.instructure.com/courses/18193/files/folder/Assignments?preview=2433523)] is out, due on Sun, 03/17                                           |
 | Wed, 03/06   | SVM                 | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2450844)] |                                            |
-| Mon, 03/11   | SVM Cont.                | |                                            |
-| Wed, 03/13   | PCA                       | |                  |
+| Mon, 03/11   | SVM Cont.                | [[Annotated](https://ucsb.instructure.com/courses/18193/files?preview=2503379)]  |                                            |
+| Wed, 03/13   | PCA                       | [[Slides](https://ucsb.instructure.com/courses/18193/files?preview=2503377)] |                  |
 
 ## Acknowledgement
 The preparation of this course has benefited from the CSE404 (taught by Dr. Jiayu Zhou) at Michigan State University, and other online materials. 
